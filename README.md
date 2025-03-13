@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heuiwon
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C언어 배우는 중
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
